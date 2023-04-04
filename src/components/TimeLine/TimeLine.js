@@ -47,7 +47,7 @@ const Timeline = () => {
   <Section id='About'>
     <SectionTitle>About Me</SectionTitle>
     <SectionText>
-    A fullStack developer proficient with frontend technologies like ReactJs, Html, Css5, Javascript, Shopify Liquid, Tailwind Css and Backend Technologies like Node,Express, Python(Django),PhP(Laravel)
+    A fullStack developer proficient with frontend technologies like ReactJs, Html, Css5, Javascript, Shopify, Sass and Backend Technologies like Node,Express.
     </SectionText>
       <CarouselContainer ref={carouselRef}>
         <>
